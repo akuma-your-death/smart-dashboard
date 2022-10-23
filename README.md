@@ -1,5 +1,4 @@
-# smart-dashboard
-Version: 0.2
+# smart-dashboard Version: 0.2
 + better look (html file)
 + bug fix with nmap
 - still doesnt working on linux
