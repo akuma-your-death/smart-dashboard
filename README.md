@@ -9,6 +9,4 @@ I will update the HTML content with css and add some more things to use.
 
 Run only dashboard.py the rest will be created and run be themself
 
-im not sure if its works on Linux and termux but i try my best to update it 
-
 made with ❤️ from akuma-your-death
