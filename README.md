@@ -1,5 +1,5 @@
 # smart-dashboard Version: 0.2.1
-##imaginations for 1.2.1 update:
+#imaginations for 1.2.1 update:
 + more things possible to do
 + working for linux
 + replacement for txt files to one big json file
