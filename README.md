@@ -6,6 +6,7 @@ imaginations for 1.2.1 update:
 
 0.2.2 updates (2022-24-10):
 + tells you if gateway isnt right
++ works for linux but not automaticly
 
 0.2.1 updates (2022-23-10):
 + auto ping-test (html file)
