@@ -1,8 +1,11 @@
-# smart-dashboard Version: 0.2.1
+# smart-dashboard Version: 0.2.2
 imaginations for 1.2.1 update:
 + more things possible to do
 + working for linux
 + replacement for txt files to one big json file
+
+0.2.2 updates (2022-24-10):
++ tells you if gateway isnt right
 
 0.2.1 updates (2022-23-10):
 + auto ping-test (html file)
