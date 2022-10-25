@@ -2,7 +2,7 @@
 imaginations for 1.0.0 - 2.0.0 update:
 + more things possible to do
 + replacement for txt files to one big json file
-+ working for linux
++ works automaticly for linux
 + i'll try to make it also for termux automaticly
 
 upcomming features for 0.1.3 update:
