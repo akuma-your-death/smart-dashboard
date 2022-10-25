@@ -10,7 +10,7 @@ imaginations for 1.0.0 update:
 
 0.1.1 updates (2022-23-10):
 + auto ping-test (html file)
-+ now you can set new nmap target without waiting till the website loads (target will be saned after homenetwork)
++ now you can set new nmap target without waiting till the website loads (target will be scaned after homenetwork)
 - still doesnt working for linux
 
 0.1.0 updates (2022-23-10):
