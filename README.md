@@ -7,7 +7,7 @@ imaginations for 1.0.0 - 2.0.0 update:
 
 upcomming features for 0.1.3 update:
 + update for checking if gateway isnt right(still not 100%)
-+ maybe working automaticly working for linux
++ maybe works automaticly working for linux
 
 0.1.2 updates (2022-24-10):
 + tells you if gateway isnt right
