@@ -18,7 +18,7 @@ imaginations for 1.0.0 update:
 - still doesnt working with linux
 
 this is my first python tool i would love feedback and new ideas.
-Run only dashboard.py the rest will be created and run be themself
+Run only dashboard.py the rest will be created and run by themself
 On Linux you have to run run-if-linux.sh or run manuelly dashboard.py, nmap.py and server.py (i'll add this bash file in 0.1.3 update (notice on 2022-25/26-10))
 
 if you install the requirements.txt its not a problem if you get only errors, these tools should be install by standard but just to be safe
