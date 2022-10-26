@@ -1,7 +1,7 @@
 # smart-dashboard Version: 0.1.3
 How to run:
 
-## Windows:
+### Windows:
 + download nmap <a href="https://nmap.org/dist/nmap-7.93-setup.exe"/>
 + setup nmap
 + download zip folder
@@ -9,8 +9,8 @@ How to run:
 + open terminal and write cd (path/to/smart-dashboard)
 + pip install -r requirements.txt
 + python dashboard.py
-
-##Linux
+###
+### Linux
 + git clone https://github.com/akuma-your-death/smart-dashboard
 + cd smart-dashboard
 + pip install -r requirements.txt
