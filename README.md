@@ -5,9 +5,10 @@ imaginations for 1.0.0 - 2.0.0 update:
 + works automaticly for linux
 + i'll try to make it also for termux automaticly
 
-upcomming features for 0.1.3 update:
+0.1.3 updates (2022-26-10):
 + update for checking if gateway isnt right(still not 100%)
-+ maybe works automaticly working for linux
++ fixed nmap bugs(i didnt noticed these bugs thats why i patched them so lately)
++ working nice on linux but you have to run manuelly dashoabord.py then nmap.py and then server.py on different terminals
 
 0.1.2 updates (2022-24-10):
 + tells you if gateway isnt right
