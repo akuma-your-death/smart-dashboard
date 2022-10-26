@@ -1,6 +1,7 @@
 # smart-dashboard Version: 0.1.3
-How to run:
-
+#
+##How to run:
+##
 ### Windows:
 + download nmap(https://nmap.org/dist/nmap-7.93-setup.exe")
 + setup nmap
@@ -19,7 +20,9 @@ How to run:
 + open new terminal and write python3 nmap.py
 + open new terminal and write python3 server.py
 + if you are not automatically forwarded to your browser then just type on your browser http://(your IPv4):8000
+###
 
+### Updates:
 
 imaginations for 1.0.0 - 2.0.0 update:
 + more things possible to do
