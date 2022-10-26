@@ -1,4 +1,4 @@
-# smart-dashboard Version: 0.1.2
+# smart-dashboard Version: 0.1.3
 imaginations for 1.0.0 - 2.0.0 update:
 + more things possible to do
 + replacement for txt files to one big json file
