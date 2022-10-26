@@ -2,7 +2,7 @@
 How to run:
 
 ### Windows:
-+ download nmap <a href="https://nmap.org/dist/nmap-7.93-setup.exe"/>
++ download nmap(https://nmap.org/dist/nmap-7.93-setup.exe")
 + setup nmap
 + download zip folder
 + go to downloads and unzip it
