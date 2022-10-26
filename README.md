@@ -4,7 +4,7 @@ How to run:
 ### Windows:
 + download nmap(https://nmap.org/dist/nmap-7.93-setup.exe")
 + setup nmap
-+ download zip folder
++ download zip folder(this script not from nmap)
 + go to downloads and unzip it
 + open terminal and write cd (path/to/smart-dashboard)
 + pip install -r requirements.txt
