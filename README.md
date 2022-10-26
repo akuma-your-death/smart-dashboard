@@ -12,6 +12,7 @@
 + python dashboard.py
 ###
 ### Linux
++ sudo apt install nmap
 + git clone https://github.com/akuma-your-death/smart-dashboard
 + cd smart-dashboard
 + pip install -r requirements.txt
