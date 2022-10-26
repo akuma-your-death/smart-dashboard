@@ -1,4 +1,26 @@
 # smart-dashboard Version: 0.1.3
+How to run:
+
+## Windows:
++ download nmap <a href="https://nmap.org/dist/nmap-7.93-setup.exe"/>
++ setup nmap
++ download zip folder
++ go to downloads and unzip it
++ open terminal and write cd (path/to/smart-dashboard)
++ pip install -r requirements.txt
++ python dashboard.py
+
+##Linux
++ git clone https://github.com/akuma-your-death/smart-dashboard
++ cd smart-dashboard
++ pip install -r requirements.txt
++ python3 dashboard.py 
++ write your gateway
++ open new terminal and write python3 nmap.py
++ open new terminal and write python3 server.py
++ if you are not automatically forwarded to your browser then just type on your browser http://(your IPv4):8000
+
+
 imaginations for 1.0.0 - 2.0.0 update:
 + more things possible to do
 + replacement for txt files to one big json file
