@@ -29,7 +29,6 @@
 + more things possible to do
 + replacement for txt files to one big json file
 + works automaticly for linux
-+ i'll try to make it also for termux automaticly
 
 ### 0.1.3 updates (2022-26-10):
 + update for checking if gateway isnt right(still not 100%)
