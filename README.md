@@ -25,7 +25,7 @@
 
 ## Updates:
 
-### imaginations for 1.0.0 - 2.0.0 update:
+### imaginations until 1.0.0 - 2.0.0 update:
 + more things possible to do
 + replacement for txt files to one big json file
 + works automaticly for linux
