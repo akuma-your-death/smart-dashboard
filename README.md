@@ -30,6 +30,10 @@
 + replacement for txt files to one big json file
 + works automaticly for linux
 
+### 0.1.4 updates (2022-30-10):
++ write send wa msg in dashboard.py select number and message and press enter (the script will automaticly press enter and ALT + F4 to close window after 7 seconds if you need more/less time bc of your wifi then change the number at row 213)
++ you can see the last sendet message at the html file (with number, message and date)
+
 ### 0.1.3 updates (2022-26-10):
 + update for checking if gateway isnt right(still not 100%)
 + fixed nmap bugs(i didnt noticed these bugs thats why i patched them so lately)
@@ -51,7 +55,7 @@
 
 this is my first python tool i would love feedback and new ideas.
 Run only dashboard.py the rest will be created and run by themself
-On Linux you have to run run-if-linux.sh or run manuelly dashboard.py, nmap.py and server.py (i'll add this bash file in maybe 0.1.3 update (notice on 2022-25/30-10))
+On Linux you have to run run-if-linux.sh or run manuelly dashboard.py, nmap.py and server.py
 
 if you install the requirements.txt its not a problem if you get only errors, these tools should be install by standard but just to be safe
 
