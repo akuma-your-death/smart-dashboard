@@ -30,25 +30,22 @@
 + replacement for txt files to one big json file
 + works automaticly for linux
 
-### 0.1.4 updates (2022-30-10):
+### 0.1.3 updates (2022-30-10):
 + write send wa msg in dashboard.py select number and message and press enter (the script will automaticly press enter and ALT + F4 to close window after 7 seconds if you need more/less time bc of your wifi then change the number at row 213)
 + you can see the last sendet message at the html file (with number, message and date)
 
-### 0.1.3 updates (2022-26-10):
+### 0.1.2 updates (2022-26-10):
 + update for checking if gateway isnt right(still not 100%)
 + fixed nmap bugs(i didnt noticed these bugs thats why i patched them so lately)
 + working nice on linux but you have to run manuelly dashoabord.py then nmap.py and then server.py on different terminals
 
-### 0.1.2 updates (2022-24-10):
+### 0.1.1 updates (2022-24-10):
 + tells you if gateway isnt right
 + works for linux but not automaticly
 
-### 0.1.1 updates (2022-23-10):
+### 0.1.0 updates (2022-23-10):
 + auto ping-test (html file)
 + now you can set new nmap target without waiting till the website loads (target will be scaned after homenetwork)
-- still doesnt working for linux
-
-### 0.1.0 updates (2022-23-10):
 + better look (html file)
 + bug fix with nmap
 - still doesnt working with linux
