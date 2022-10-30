@@ -1,3 +1,6 @@
+datetime
+pyautogui
+keyboard
 os
 socket
 webbrowser
