@@ -56,4 +56,6 @@ On Linux you have to run run-if-linux.sh or run manuelly dashboard.py, nmap.py a
 
 if you install the requirements.txt its not a problem if you get only errors, these tools should be install by standard but just to be safe
 
+if you want to send whatsapp messages at first you have to login in web.whatsapp.com with your stanrd browser(mine is chrome) 
+
 made with ❤️ from akuma-your-death
